@@ -2,6 +2,10 @@
   "name": "dist-ui",
   "version": "0.1.0",
   "private": true,
+  "main": "dist/dist-ui.umd.min.js",
+  "author": {
+    "name": "罗健文"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

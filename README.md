@@ -15,9 +15,9 @@ yarn serve
 yarn build
 ```
 
-### Lints and fixes files
+### 打包组件库
 ```
-yarn lint
+yarn lib
 ```
 
 ### Customize configuration
